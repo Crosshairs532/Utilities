@@ -1,5 +1,4 @@
-> [!IMPORTANT]
-> # Custom Functions
+# Utility Functions
 > ### Config
 ```javascript
 import dotenv from 'dotenv';
